@@ -12,7 +12,7 @@ Currently teaching HS Math while learning cloud architecture and automation.  Bu
 
 ### 🛠️ Projects
 - Statistical Analysis Tools (In Progress)
-- Classroom Data Automation
+- Games
 - Cloud Infrastructure Learning
 - More coming soon!
 
@@ -25,8 +25,6 @@ Currently teaching HS Math while learning cloud architecture and automation.  Bu
 ### 🔗 Connect
 - Website: (under construction) [becurious.life](https://becurious.life)
 - Projects: (under construction) [becurious.productions](https://becurious.productions)
-
-*"Applying classroom problem-solving to cloud infrastructure challenges"*
 
 ---
 📈 Building daily, learning constantly...
