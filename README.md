@@ -2,7 +2,7 @@
 
 ## Math/Stats Teacher → DevOps Engineer
 
-Currently teaching HS Math while learning cloud architecture and automation.  Building bridges between education and cloud infrastructure. 
+Currently teaching HS Math while learning cloud architecture and automation.  
 
 ### 🎯 Current Focus
 - 🐍 Learning Python for automation
