@@ -1,16 +1,32 @@
-## Hi there 👋
+# BeCuriousSTEAMLab
 
-<!--
-**BeCuriousSTEAMLab/BeCuriousSTEAMLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Math/Stats Teacher → DevOps Engineer
 
-Here are some ideas to get you started:
+Currently teaching HS Math while learning cloud architecture and automation.  Building bridges between education and cloud infrastructure. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Current Focus
+- 🐍 Learning Python for automation
+- ☁️ AWS Cloud Practitioner certification path
+- 📊 Building statistical analysis tools
+- 🚀 Learning CI/CD and DevOps practices
+
+### 🛠️ Projects
+- Statistical Analysis Tools (In Progress)
+- Classroom Data Automation
+- Cloud Infrastructure Learning
+- More coming soon!
+
+### 🌱 Learning Journey
+- Starting with Python fundamentals
+- Moving to AWS cloud services
+- Building automation tools
+- Exploring DevOps practices
+
+### 🔗 Connect
+- Website: (under construction) [becurious.life](https://becurious.life)
+- Projects: (under construction) [becurious.productions](https://becurious.productions)
+
+*"Applying classroom problem-solving to cloud infrastructure challenges"*
+
+---
+📈 Building daily, learning constantly...
