@@ -1,30 +1,24 @@
 # BeCuriousSTEAMLab
 
-## Math/Stats Teacher → DevOps Engineer
+## Math/Stats Teacher <--> Project Manager
 
-Currently teaching HS Math while learning cloud architecture and automation.  
+Currently teaching HS Math while learning computer science & project management 
 
 ### 🎯 Current Focus
-- 🐍 Learning Python for automation
-- ☁️ AWS Cloud Practitioner certification path
-- 📊 Building statistical analysis tools
-- 🚀 Learning CI/CD and DevOps practices
+- Visual Studio Code 2
+- Project Management
+- Agile Project Management
 
 ### 🛠️ Projects
-- Statistical Analysis Tools (In Progress)
 - Games
-- Cloud Infrastructure Learning
-- More coming soon!
 
 ### 🌱 Learning Journey
-- Starting with Python fundamentals
-- Moving to AWS cloud services
-- Building automation tools
-- Exploring DevOps practices
+- Calc 1, 2, 3
+- Linear Algebra
+- Discrete Math
 
 ### 🔗 Connect
 - Website: (under construction) [becurious.life](https://becurious.life)
 - Projects: (under construction) [becurious.productions](https://becurious.productions)
 
----
-📈 Building daily, learning constantly...
+
