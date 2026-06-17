@@ -1,8 +1,6 @@
 # Peter Celona
 ### Curriculum Designer ↔ Technical Project Manager
 
-I am a mathematics educator and curriculum developer with 15+ years of experience bridging the gap between rigorous academic frameworks and engaging digital learning. I specialize in applying Professor H. Wu’s (UC Berkeley) logical development of school mathematics to scalable EdTech products, utilizing Python to create mathematically accurate visual intuition.
-
 🎯 **Current Focus**
 *   **Curriculum Design:** Translating the "definitions-first" number line framework into accessible, interactive grade 6-12 content.
 *   **Visual Mathematics:** Coding mathematical animations using the **Manim** (Community Edition) Python library.
